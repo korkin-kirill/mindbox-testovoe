@@ -5,7 +5,7 @@ import { defineConfig } from 'vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/mindbox-test',
+  base: '/',
   resolve: {
     alias: {
       '@app': path.resolve(__dirname, './src/app'),
