@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/7f9aaba0-b5dd-4e0d-9f70-cd2b6ba680d1/project/409b459c-a3dc-40ff-8d3a-358cb1b9a3ab.svg)](https://wakatime.com/badge/user/7f9aaba0-b5dd-4e0d-9f70-cd2b6ba680d1/project/409b459c-a3dc-40ff-8d3a-358cb1b9a3ab)
+KORKIN KIRILL
 
 Сделайте ToDo-приложение, позволяющее управлять текущим списком дел
 
